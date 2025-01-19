@@ -1,0 +1,13 @@
+Employee data 					
+Name 	Emp #	Designation	Salary	Contect #	Blood group
+muhammad munir	45321	C.E.O	"? 7,00,000.00"	+91 99877656445	B+
+Shahid 	45322	DGM	"? 5,00,000.00"	+91 96457890724	AB+
+musaddiq	45323	GM	"? 6,00,000.00"	+91 95678904322	O+
+uma mishra	45324	AM	"? 3,00,000.00"	+91 94567878903	AB+
+munawar	45335	Assistant officer	"? 2,00,000.00"	+91 93455678899	ABB+
+asad 	45336	officier	"? 1,25,000.00"	+91 99876554345	O+
+Zia 	45337	Supervisor	"? 80,000.00"	+91 98765432567	O-
+noor ul haq	45338	JS Supervisor	"? 49,000.00"	+91 91234567894	B+
+tulha 	45389	Supervisor	"? 70,000.00"	+91 99876543216	B-
+					
+					
